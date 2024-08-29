@@ -4,10 +4,10 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Coming out of my cage");
+        Console.WriteLine("Oh-oh-oh-oh-oh,");
 
-        Console.WriteLine("And I've been doing just fine");
-        Console.WriteLine("Gotta gotta be down");
-        Console.WriteLine("Because I want it all"); 
+        Console.WriteLine("oh-oh-oh-oh,");
+        Console.WriteLine("oh-oh-oh /");
+        Console.WriteLine("Caught in a bad romance..."); 
     }
 }
