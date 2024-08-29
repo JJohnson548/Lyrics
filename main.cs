@@ -4,10 +4,10 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Oh-oh-oh-oh-oh,");
+        Console.WriteLine("Now, this is a story all about how");
 
-        Console.WriteLine("oh-oh-oh-oh,");
-        Console.WriteLine("oh-oh-oh /");
-        Console.WriteLine("Caught in a bad romance..."); 
+        Console.WriteLine("My life got flipped-turned upside down");
+        Console.WriteLine("And I'd like to take a minute");
+        Console.WriteLine("Just sit right there \nI'll tell you how I became the prince of a town called Bel-Air"); 
     }
 }
